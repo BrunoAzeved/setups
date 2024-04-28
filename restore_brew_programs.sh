@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Criar lista de apps do Brew -> brew list > brew_programs.txt
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 
