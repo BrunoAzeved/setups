@@ -1,3 +1,5 @@
+# No repositório do GitHub, navegue até o arquivo e clique em "Raw". 
+# Copie a URL que aparece na barra de endereço. Essa URL será usada para baixar o script diretamente em URL_DO_ARQUIVO_RAW.
 # Set-ExecutionPolicy Bypass -Scope Process -Force; iex (iwr URL_DO_ARQUIVO_RAW -UseBasicParsing)
 
 Set-ExecutionPolicy Bypass -Scope Process -Force
